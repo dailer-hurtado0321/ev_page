@@ -233,7 +233,7 @@ input[type="submit"]:hover {
 .agileits-top p {
   font-size: 1em;
   color: #fff;
-  text-align: center;
+  /* text-align: center; */
   letter-spacing: 1px;
   font-weight: 300;
 }
