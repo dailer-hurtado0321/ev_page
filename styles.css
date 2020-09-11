@@ -109,15 +109,19 @@ img {
 
 /*-- end reset --*/
 body {
-  background: #76b852;
+  /* background: #76b852; */
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, #76b852, #8DC26F);
+  /* background: -webkit-linear-gradient(to top, #76b852, #8DC26F);
   background: -moz-linear-gradient(to top, #76b852, #8DC26F);
   background: -o-linear-gradient(to top, #76b852, #8DC26F);
-  background: linear-gradient(to top, #76b852, #8DC26F);
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to top, #76b852, #8DC26F); */
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'raleway';
+  font-weight: 300;
+  font-size: 20px;
+  color: #4c4c4c;
 }
 
 h1 {
@@ -144,7 +148,7 @@ h1 {
 
 .agileits-top {
   padding: 3em;
-  background: rgba(0, 0, 0, 0.18);
+  /* background: rgba(0, 0, 0, 0.18); */
 }
 
 input[type="text"], input[type="email"], input[type="password"] {
@@ -230,9 +234,12 @@ input[type="submit"]:hover {
   background: #8DC26F;
 }
 
+
 .agileits-top p {
   font-size: 1em;
-  color: #fff;
+  font-family: 'raleway';
+  font-size: 18px;
+  /* color: #fff; */
   /* text-align: center; */
   letter-spacing: 1px;
   font-weight: 300;
