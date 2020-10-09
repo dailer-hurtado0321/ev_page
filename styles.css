@@ -118,7 +118,7 @@ body {
   /* background-size: cover; */
   /* background-attachment: fixed; */
   /* font-family: 'Roboto', sans-serif; */
-  font-family: 'raleway';
+  font-family: 'roboto';
   font-weight: 300;
   font-size: 20px;
   color: #4c4c4c;
@@ -237,7 +237,7 @@ input[type="submit"]:hover {
 
 .agileits-top p {
   font-size: 1em;
-  font-family: 'raleway';
+  font-family: 'roboto';
   font-size: 18px;
   /* color: #fff; */
   /* text-align: center; */
