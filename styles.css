@@ -102,10 +102,6 @@ nav.horizontal ul li {
   display: inline-block;
 }
 
-/* horizontal menu */
-img {
-  max-width: 100%;
-}
 
 /*-- end reset --*/
 body {
@@ -118,7 +114,7 @@ body {
   /* background-size: cover; */
   /* background-attachment: fixed; */
   /* font-family: 'Roboto', sans-serif; */
-  font-family: 'roboto';
+  font-family: 'Raleway';
   font-weight: 300;
   font-size: 20px;
   color: #4c4c4c;
