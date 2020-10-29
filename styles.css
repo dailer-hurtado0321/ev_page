@@ -127,7 +127,6 @@ h1 {
   font-weight: 100;
   text-transform: capitalize;
   letter-spacing: 4px;
-  font-family: 'Roboto', sans-serif;
 }
 
 /*-- main --*/
@@ -164,7 +163,6 @@ input[type="text"], input[type="email"], input[type="password"] {
   background-size: 100%;
   background-repeat: no-repeat;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
 }
 
 input.email, input.text.w3lpass {
@@ -233,7 +231,6 @@ input[type="submit"]:hover {
 
 .agileits-top p {
   font-size: 1em;
-  font-family: 'roboto';
   font-size: 18px;
   /* color: #fff; */
   /* text-align: center; */
